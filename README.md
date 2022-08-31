@@ -11,11 +11,8 @@ It is funded by Research Council of Norway (RCN) and led by **Research Professor
 The developer is **Chief Scientist Klaus Johannsen**, also at NORCE.
 
 # Installation
+Download and unzip the software archive, move into the software directory.
 
-```
-git clone git@gitlab.norceresearch.no:columbia/GA_North_Atlantic_3d.git
-cd GA_North_Atlantic_3d
-```
 
 # Usage
 ```
